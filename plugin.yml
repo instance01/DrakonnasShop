@@ -1,0 +1,7 @@
+name: DrakonnasShops
+main: com.comze_instancelabs.signplots.Main
+version: 1.0
+author: instancelabs
+permissions:
+  drakonnasshops.create:
+    description: Gives access to list all regions. 
